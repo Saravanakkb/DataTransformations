@@ -1,0 +1,18 @@
+{"vehicles" : [
+{
+"make": "ford",
+"model": "Classic",
+"year": 1992
+},
+{
+"make": "Honda",
+"model": "Standard",
+"year": 2002
+},
+{
+"make": "GM",
+"model": "Classic",
+"year": 1996
+}
+]
+}
